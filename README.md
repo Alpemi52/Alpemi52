@@ -1,5 +1,7 @@
 Alperen Müftüoğlu
 
+![Profile views counter](https://komarev.com/ghpvc/?username=alpemi52&&style=flat-square)  
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
