@@ -8,4 +8,9 @@ Alperen Müftüoğlu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="php" width="45" height="45"/>
 </p>
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alpemi52&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31svdw7laanbmqd3ue4uox3rqo44&cover_image=true&theme=default&show_offline=false&background_color=121212)
