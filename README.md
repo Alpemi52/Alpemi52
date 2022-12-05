@@ -8,8 +8,4 @@ Alperen Müftüoğlu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-abort <<EOS
-Error: The Ruby Homebrew installer is now disabled and has been rewritten in
-Bash. Please migrate to the following command:
-  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-EOS
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31svdw7laanbmqd3ue4uox3rqo44&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
