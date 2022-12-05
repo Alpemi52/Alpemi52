@@ -10,10 +10,14 @@ Alperen Müftüoğlu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-## Github Stats  
-<![](https://github-readme-stats.vercel.app/api?username=alpemi52&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alpemi52&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alpemi52&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alpemi52&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<br/>  
+
+---
+[![](https://visitcount.itsvg.in/api?id=alpemi52&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31svdw7laanbmqd3ue4uox3rqo44&cover_image=true&theme=default&show_offline=false&background_color=121212)
