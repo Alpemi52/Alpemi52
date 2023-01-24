@@ -15,4 +15,7 @@ Alperen Müftüoğlu
 
 ---
 
+<p align=center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpemi52&show_icons=true&theme=radical&locale=en&layout=compact" alt="alpemi52" width="49%"/></p>
+
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31svdw7laanbmqd3ue4uox3rqo44&cover_image=true&theme=default&show_offline=false&background_color=121212)
+
